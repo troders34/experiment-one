@@ -7,3 +7,6 @@ Make a wish:
 
 Ad:
 - You should know how branch in GitHub works.
+
+
+What is software for screen recording compatible with Windows 10?
