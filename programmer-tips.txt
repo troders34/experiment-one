@@ -4,3 +4,6 @@ Make a wish:
 - Network
 - Server
 - Python
+
+Ad:
+- You should know how branch in GitHub works.
