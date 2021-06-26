@@ -1,0 +1,4 @@
+In this experiment:
+- I created new file in text format
+- I typed my new file 
+- FINISHED -
