@@ -8,3 +8,5 @@ _ Shark?
 - CSS
 - HTML
 - Ruby
+- hofsojf
+- Laravel
