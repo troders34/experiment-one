@@ -9,3 +9,4 @@ _ Ransomware
 - CSS
 - HTML
 - Ruby
+- Laravel
