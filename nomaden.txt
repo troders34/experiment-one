@@ -9,4 +9,6 @@ _ Ransomware
 - CSS
 - HTML
 - Ruby
+- Ubuntu
+- Partt0S and Kl Lnx
 - Laravel
