@@ -1,7 +1,9 @@
 In this experiment:
 - I created new file in .txt format
 - I typed my new file 
+
 My future:
 - Become a web programmer
 - Collaborate with experts
+- Have own website 
 = FINISHED =
