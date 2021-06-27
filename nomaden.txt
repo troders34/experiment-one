@@ -7,6 +7,10 @@ In this experimental file, I would like to:
 _ Ransomware
 - JS
 - CSS
+INI YANG DIGANTI JANGAN TERLALU BOLEH DIGABUNGKAN, MANA KONFLIKNYA????
+FD
+FD
+D
 - HTML
 - Ruby
 - Ubuntu
